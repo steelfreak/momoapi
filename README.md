@@ -83,14 +83,14 @@ Here's a complete example for clarity:
     - `Content-Type`: `application/json`
         
 - ## **Body**:
-    ``` json
-    {
-    "providerCallbackHost": "https://yourcallbackhost.com"
-    }
+      ``` json
+  {
+  "providerCallbackHost": "https://yourcallbackhost.com"
+  }
 
- ```    
+   ```    
 
-{ "providerCallbackHost": "[https://yourcallbackhost.com"](https://yourcallbackhost.com) }
+
 
 ### Common Issues
 
