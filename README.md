@@ -84,9 +84,9 @@ Here's a complete example for clarity:
         
 - ## **Body**:
     ``` json
-{
+    {
     "providerCallbackHost": "https://yourcallbackhost.com"
-}
+    }
 
  ```    
 
