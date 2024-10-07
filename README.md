@@ -11,7 +11,8 @@ To create an API user in the MTN MoMo Developer API using Postman, you’ll need
 #### 1\. Open Postman
 
 Launch the Postman application on your computer.
-For example Here: https://web.postman.co/workspace/My-Workspace~9f3f6d69-a098-46b0-8002-e4f7b31e92de/collection/11762480-e43e9307-5420-423f-916c-81a504f8da41
+For example Here: [Postman](https://web.postman.co/workspace/My-Workspace~9f3f6d69-a098-46b0-8002-e4f7b31e92de/collection/11762480-e43e9307-5420-423f-916c-81a504f8da41)
+
 
 #### 2\. Create a New Request
 
