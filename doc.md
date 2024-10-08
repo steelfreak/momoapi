@@ -52,6 +52,25 @@ This project demonstrates how to integrate with the MTN Mobile Money API to crea
 
 ## Function: `create_api_user`
 
+``` python
+
+    def create_api_user(accurl, collections_apiuser, collections_subkey, provider_callback_host):
+    """Creates an API user.
+
+    Args:
+        accurl: The base URL of the API.
+        collections_apiuser: The unique reference ID for the API user.
+        collections_subkey: The subscription key for the API user.
+        provider_callback_host: The callback host URL.
+
+    Returns:
+        A dictionary containing the API user details, or None if an error occurred.
+    """
+    # ... (function implementation) ...
+
+```
+
+
 python def create_api_user(accurl, collections_apiuser, collections_subkey, provider_callback_host): """Creates an API user.
 
 Args:
